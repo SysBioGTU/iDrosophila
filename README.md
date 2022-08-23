@@ -4,7 +4,7 @@
 
 The latest version of iDrosophila1 is shared here, which is a genome-scale metabolic network model for Drosophila melanogaster. The reconstruction process of iDrosophila1 is detailed below:
 
-<img src="https://github.com/SysBioGTU/iDrosophila/blob/main/Figures/Flowchart_GitHub.jpg" width="500">
+<img src="https://github.com/SysBioGTU/iDrosophila/blob/main/Figures/Flowchart_GitHub.jpg" width="700">
 
 **Common curation steps** refers to the revisions (name standardization, the curations of metabolic redundancy, stoichiometric consistency, and missing/incomplete components), which were commonly applied to the orthology-based draft Drosophila model and Drosophila-specific KEGG-MetaCyc network in the reconstruction process. Note that each model component was carefully examined in the model curation step.
 
