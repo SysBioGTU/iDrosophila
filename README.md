@@ -1,4 +1,4 @@
-# **iDrosophila1: A genome-scale metabolic network model of *Drosophila melanogaster* **
+# iDrosophila1: A genome-scale metabolic network model of *Drosophila melanogaster*
 
 **Contributors:** [Muberra Fatma Cesur](https://www.gtu.edu.tr/en/personel/356/1558/display.aspx), [‪Kiran Raosaheb Patil‬](https://www.mrc-tox.cam.ac.uk/staff/kiran-patil), [Tunahan Cakir‬](https://www.gtu.edu.tr/en/personel/356/2201/display.aspx)
 
@@ -11,11 +11,9 @@ The latest version of iDrosophila1 is shared here, which is a genome-scale metab
 
 The metabolic content of iDrosophila1 model is summarized in the following table. In addition, the model contains eight intracellular compartments (cytosol, nucleus, golgi apparatus, mitochondria, mitochondrial intermembrane space, endoplasmic reticulum, lysosome, and peroxisome).
 
-+----------------------------------------+------------------------------+-------------------------------+----------------------------------+
 | Organism                               | Reactions                    | Metabolites                   | Genes                            |
-+----------------------------------------+------------------------------+-------------------------------+----------------------------------+
-| *Drosophila melanogaster*              |             8,230            |             6,990             |               2,388              |
-+----------------------------------------+------------------------------+-------------------------------+----------------------------------+
+|:--------------------------------------:|:----------------------------:|:-----------------------------:|:--------------------------------:|
+| _Drosophila melanogaster_              |             8,230            |             6,990             |               2,388              |
 
 ## **Model Installation**
 
