@@ -12,11 +12,6 @@ The metabolic content of iDrosophila1 model is summarized in the following table
 | **Organism**                               | **Reactions**         | **Metabolites** | **Genes**|   
 |--------------------------------------------|-----------------------|-----------------|----------|
 | Drosophila melanogaster                    | 8,230                 | 6,990           | 2,388    |   
-|											 |                       |                 |          |   
-| 			**ATPM Reaction**                |			**Biomass Reaction**                      |  
-|                                            |                                                    | 
-| HMR_3964 (fixed to 8.55 mmol ATP g-1h-1)   | 				Biomass_formation                     |   
-
 
 **Model Installation**
 
