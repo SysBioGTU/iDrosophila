@@ -1,6 +1,6 @@
 # **iDrosophila1: A genome-scale metabolic network model of Drosophila melanogaster**
 
-**Contributors:** [Muberra Fatma Cesur](https://www.gtu.edu.tr/en/personel/356/1558/display.aspx), ‪Kiran Raosaheb Patil‬, Tunahan Cakir‬
+**Contributors:** [Muberra Fatma Cesur](https://www.gtu.edu.tr/en/personel/356/1558/display.aspx), [‪Kiran Raosaheb Patil‬](https://www.mrc-tox.cam.ac.uk/staff/kiran-patil), [Tunahan Cakir‬](https://www.gtu.edu.tr/en/personel/356/2201/display.aspx)
 
 The latest version of iDrosophila1 is shared here, which is a genome-scale metabolic network model for Drosophila melanogaster. The reconstruction process of iDrosophila1 is detailed below:
 
