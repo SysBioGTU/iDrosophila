@@ -7,13 +7,14 @@ The latest version of iDrosophila1 is shared here, which is a genome-scale metab
 ![Figure](https://github.com/SysBioGTU/iDrosophila/blob/main/Figures/Flowchart_GitHub.jpg)
 
 *Common curation steps* refers to the revisions (name standardization, the curations of metabolic redundancy, stoichiometric consistency, and missing/incomplete components), which were commonly applied to the orthology-based draft Drosophila model and Drosophila-specific KEGG-MetaCyc network in the reconstruction process. Note that each model component was carefully examined in the model curation step.
+
 The metabolic content of iDrosophila1 model is summarized in the following table. In addition, the model contains eight intracellular compartments (cytosol, nucleus, golgi apparatus, mitochondria, mitochondrial intermembrane space, endoplasmic reticulum, lysosome, and peroxisome).
 
 | **Organism**                               | **Reactions**         | **Metabolites** | **Genes**|   
 |--------------------------------------------|-----------------------|-----------------|----------|
 | Drosophila melanogaster                    | 8,230                 | 6,990           | 2,388    |   
 
-**Model Installation**
+## **Model Installation**
 
 •	The model is shared in MATLAB .mat format, which is compatible with COBRA Toolbox model structure. Download the model from GitHub page or directly clone the repository (using GitBash or downloading the zipped files by left-clicking the 'Code' drop-down menu) to your local drive.
 
