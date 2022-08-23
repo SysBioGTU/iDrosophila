@@ -1,4 +1,4 @@
-# **iDrosophila1: A genome-scale metabolic network model of Drosophila melanogaster**
+# **iDrosophila1: A genome-scale metabolic network model of *Drosophila melanogaster* **
 
 **Contributors:** [Muberra Fatma Cesur](https://www.gtu.edu.tr/en/personel/356/1558/display.aspx), [‪Kiran Raosaheb Patil‬](https://www.mrc-tox.cam.ac.uk/staff/kiran-patil), [Tunahan Cakir‬](https://www.gtu.edu.tr/en/personel/356/2201/display.aspx)
 
@@ -14,7 +14,7 @@ The metabolic content of iDrosophila1 model is summarized in the following table
 +----------------------------------------+------------------------------+-------------------------------+----------------------------------+
 | Organism                               | Reactions                    | Metabolites                   | Genes                            |
 +----------------------------------------+------------------------------+-------------------------------+----------------------------------+
-| *Drosophila melanogaster*             |             8,230            |             6,990             |               2,388              |
+| *Drosophila melanogaster*              |             8,230            |             6,990             |               2,388              |
 +----------------------------------------+------------------------------+-------------------------------+----------------------------------+
 
 ## **Model Installation**
