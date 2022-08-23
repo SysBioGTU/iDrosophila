@@ -11,7 +11,6 @@ The latest version of iDrosophila1 is shared here, which is a genome-scale metab
 
 > The metabolic content of iDrosophila1 model is summarized in the following table. In addition, the model contains eight intracellular compartments (cytosol, nucleus, golgi apparatus, mitochondria, mitochondrial intermembrane space, endoplasmic reticulum, lysosome, and peroxisome).
 	
-<table align="center"></table>
 		
    | Organism                               | Reactions                    | Metabolites                   | Genes                       |
    |:--------------------------------------:|:----------------------------:|:-----------------------------:|:---------------------------:|
