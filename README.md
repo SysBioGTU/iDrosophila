@@ -12,7 +12,7 @@ The metabolic content of iDrosophila1 model is summarized in the following table
 
 | **Organism**                               |         **Reactions**          |      **Metabolites**         |          **Genes**            |   
 |--------------------------------------------|--------------------------------|------------------------------|-------------------------------|
-| Drosophila melanogaster                    |          8,230                 |          6,990               |            2,388              |   
+| *Drosophila melanogaster*                    |          8,230                 |          6,990               |            2,388              |   
 
 ## **Model Installation**
 
