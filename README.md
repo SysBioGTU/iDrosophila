@@ -1,4 +1,4 @@
-**iDrosophila1: A genome-scale metabolic network model of Drosophila melanogaster**
+# **iDrosophila1: A genome-scale metabolic network model of Drosophila melanogaster**
 
 **Contributors:** Muberra Fatma Cesur, ‪Kiran Raosaheb Patil‬, Tunahan Cakir‬
 
