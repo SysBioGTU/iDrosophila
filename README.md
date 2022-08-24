@@ -12,6 +12,8 @@ The latest version of iDrosophila1 is shared here, which is a genome-scale metab
 
 > The metabolic content of iDrosophila1 model is summarized in the following table. In addition, the model contains eight intracellular compartments (cytosol, nucleus, golgi apparatus, mitochondria, mitochondrial intermembrane space, endoplasmic reticulum, lysosome, and peroxisome).
 
+<br>
+	
 <div align="center">
 	
    | Organism                        | Reactions             | Metabolites            | Genes                 | Model Version        |
@@ -20,6 +22,7 @@ The latest version of iDrosophila1 is shared here, which is a genome-scale metab
 
 </div>
 
+<br/>
 ## **Model installation**
 
 •	The model is shared in MATLAB .mat format, which is compatible with COBRA Toolbox model structure. Download the model from GitHub page or directly clone the repository (using GitBash or downloading the zipped files by left-clicking the 'Code' drop-down menu) to your local drive.
