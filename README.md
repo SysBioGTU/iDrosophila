@@ -19,7 +19,6 @@ The latest version of iDrosophila1 is shared here, which is a genome-scale metab
    | _Drosophila melanogaster_       |          8,230        |           6,990        |         2,388         |       1.1.0          |		
 
 </div>
-
 &nbsp;
 ## **Model installation**
 
