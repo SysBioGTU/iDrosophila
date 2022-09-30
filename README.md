@@ -33,7 +33,7 @@ The latest version of iDrosophila1 is shared here, which is a genome-scale metab
 •	To read the model in SBML format, use readCbModel() function provided by [COBRA Toolbox](https://opencobra.github.io/cobratoolbox/stable/).
 
 		cd ./code
-		model = readCbModel(‘iDrosophila1.xml’);   % Read the model
+		model = readCbModel('iDrosophila1.xml');   % Read the model
 
 ### **For citation, please use the following reference:**
 Cesur, M. F., Patil, K., Cakir, T. (2022). A genome-scale metabolic model of Drosophila melanogaster for integrative analysis of brain diseases. bioRxiv, doi: https://doi.org/10.1101/2022.08.22.504778.
