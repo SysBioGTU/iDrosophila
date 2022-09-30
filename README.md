@@ -30,7 +30,7 @@ The latest version of iDrosophila1 is shared here, which is a genome-scale metab
 		model = load(‘iDrosophila1.mat’);   % Load the model
 		save('iDrosophila1.mat');   % Save the model
 
-•	To read the model in SBML format, use readCbModel() function provided by COBRA Toolbox.
+•	To read the model in SBML format, use readCbModel() function provided by [COBRA Toolbox](https://opencobra.github.io/cobratoolbox/stable/).
 
 		cd ./code
 		model = readCbModel(‘iDrosophila1.xml’);   % Read the model
