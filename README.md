@@ -27,7 +27,7 @@ The latest version of iDrosophila1 is shared here, which is a genome-scale metab
 •	As follows, use MATLAB load() and save() functions to load and save the model in .mat format. For more information, please see https://sysbiogtu.github.io/.
 
 		cd ./code
-		model = load(‘iDrosophila1.mat’);   % Load the model
+		model = load('iDrosophila1.mat');   % Load the model
 		save('iDrosophila1.mat');   % Save the model
 
 •	To read the model in SBML format, use readCbModel() function provided by [COBRA Toolbox](https://opencobra.github.io/cobratoolbox/stable/).
