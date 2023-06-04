@@ -36,4 +36,4 @@ The latest version of iDrosophila1 is shared here, which is a genome-scale metab
 		model = readCbModel('iDrosophila1.xml');   % Read the model
 
 ### **For citation, please use the following reference:**
-Cesur, M. F., Patil, K., Cakir, T. (2022). A genome-scale metabolic model of Drosophila melanogaster for integrative analysis of brain diseases. bioRxiv, doi: https://doi.org/10.1101/2022.08.22.504778.
+Cesur, M. F., Basile, A., Patil, K. R., & Çakır, T. (2023). A new metabolic model of Drosophila melanogaster and the integrative analysis of Parkinson’s disease. Life Science Alliance, 6(8).
