@@ -29,6 +29,8 @@ The latest version of iDrosophila1 is shared here, which is a genome-scale metab
 		cd ./code
 		model = load('iDrosophila1.mat');   % Load the model
 		save('iDrosophila1.mat');   % Save the model
+  
+  •	Example code for simulating *Drosophila* growth under the Holidic diet (HD) is available in the 'Example Growth Simulation' folder.
 
 •	To read the model in SBML format, use readCbModel() function provided by [COBRA Toolbox](https://opencobra.github.io/cobratoolbox/stable/).
 
