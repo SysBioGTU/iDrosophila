@@ -29,13 +29,13 @@ The latest version of iDrosophila1 is shared here, which is a genome-scale metab
 		cd ./code
 		model = load('iDrosophila1.mat');   % Load the model
 		save('iDrosophila1.mat');   % Save the model
-  
-  •	Example code for simulating *Drosophila* growth under the Holidic diet (HD) is available in the 'Example Growth Simulation' folder.
 
 •	To read the model in SBML format, use readCbModel() function provided by [COBRA Toolbox](https://opencobra.github.io/cobratoolbox/stable/).
 
 		cd ./code
 		model = readCbModel('iDrosophila1.xml');   % Read the model
 
+  •	Example code for simulating *Drosophila* growth under the Holidic diet (HD) is available in the 'Example Growth Simulation' folder.
+  
 ### **For citation, please use the following reference:**
 Cesur, M. F., Basile, A., Patil, K. R., & Çakır, T. (2023). A new metabolic model of Drosophila melanogaster and the integrative analysis of Parkinson’s disease. Life Science Alliance, 6(8).
